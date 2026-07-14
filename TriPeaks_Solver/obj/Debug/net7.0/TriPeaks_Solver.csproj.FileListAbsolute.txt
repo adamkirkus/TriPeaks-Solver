@@ -1,0 +1,14 @@
+/Users/adamkirkus/Projects/TriPeaks_Solver/TriPeaks_Solver/obj/Debug/net7.0/TriPeaks_Solver.GeneratedMSBuildEditorConfig.editorconfig
+/Users/adamkirkus/Projects/TriPeaks_Solver/TriPeaks_Solver/obj/Debug/net7.0/TriPeaks_Solver.AssemblyInfoInputs.cache
+/Users/adamkirkus/Projects/TriPeaks_Solver/TriPeaks_Solver/obj/Debug/net7.0/TriPeaks_Solver.AssemblyInfo.cs
+/Users/adamkirkus/Projects/TriPeaks_Solver/TriPeaks_Solver/obj/Debug/net7.0/TriPeaks_Solver.csproj.CoreCompileInputs.cache
+/Users/adamkirkus/Projects/TriPeaks_Solver/TriPeaks_Solver/bin/Debug/net7.0/TriPeaks_Solver
+/Users/adamkirkus/Projects/TriPeaks_Solver/TriPeaks_Solver/bin/Debug/net7.0/TriPeaks_Solver.deps.json
+/Users/adamkirkus/Projects/TriPeaks_Solver/TriPeaks_Solver/bin/Debug/net7.0/TriPeaks_Solver.runtimeconfig.json
+/Users/adamkirkus/Projects/TriPeaks_Solver/TriPeaks_Solver/bin/Debug/net7.0/TriPeaks_Solver.dll
+/Users/adamkirkus/Projects/TriPeaks_Solver/TriPeaks_Solver/bin/Debug/net7.0/TriPeaks_Solver.pdb
+/Users/adamkirkus/Projects/TriPeaks_Solver/TriPeaks_Solver/obj/Debug/net7.0/TriPeaks_Solver.dll
+/Users/adamkirkus/Projects/TriPeaks_Solver/TriPeaks_Solver/obj/Debug/net7.0/refint/TriPeaks_Solver.dll
+/Users/adamkirkus/Projects/TriPeaks_Solver/TriPeaks_Solver/obj/Debug/net7.0/TriPeaks_Solver.pdb
+/Users/adamkirkus/Projects/TriPeaks_Solver/TriPeaks_Solver/obj/Debug/net7.0/TriPeaks_Solver.genruntimeconfig.cache
+/Users/adamkirkus/Projects/TriPeaks_Solver/TriPeaks_Solver/obj/Debug/net7.0/ref/TriPeaks_Solver.dll
